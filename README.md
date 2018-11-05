@@ -1,2 +1,3 @@
 # Story-collections
-Collection of different stories.
+
+My first novel - "The hidden worl in our world"
